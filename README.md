@@ -47,6 +47,12 @@ This project aims to explore the relationships between the athletic prowess of a
 
 **Programming Language**: Python
 
+## Project Links
+
+- **Project Tracker**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1e1eZ_Ub6X5zMFK7OslJdF6euh27cSKzMEuEiGn-0AA8/edit#gid=1064547803)
+- **Project Proposal**: [Google Document](https://docs.google.com/document/d/1IER_tgCmqa_QUm2cXHnt1OB__nzwpkJndTwa9mTUCq0/edit)
+
+
 ## Datasets
 
 ### Primary Dataset
