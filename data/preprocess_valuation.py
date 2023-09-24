@@ -10,7 +10,8 @@ def players_valuations():
     df_players_valuations = pd.merge(df_players, df_players_valuations, on='player_id', how='left')
     df_players_valuations.drop(columns=['player_id', 'datetime', 'date', 'dateweek', 'n', 'player_club_domestic_competition_id'], inplace=True)
 
-    # There are multiple valuations per person due to multiple records or multiple valuations after certain assesments, etc.. 
+    # There are multiple valuations per person due to multiple records or multiple valuations after certain assesments, etc..
+    # So, we will take the average per year.  
     pd.set_option('display.float_format', '{:.2f}'.format)
     df_value_averaged = df_players_valuations.groupby(['name', 'last_season']).agg(average_value=('market_value_in_eur', 'mean')).reset_index()
 
