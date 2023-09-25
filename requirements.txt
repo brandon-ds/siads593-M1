@@ -1,0 +1,12 @@
+# Core libraries
+numpy
+pandas
+scipy
+polars
+
+# Data Visualization
+matplotlib==3.4.3
+seaborn==0.11.2
+plotly==5.3.1
+bokeh==2.3.3
+altair==4.1.0
