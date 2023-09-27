@@ -3,7 +3,9 @@ numpy
 pandas
 scipy
 polars
-
+requests
+beautifulsoup4
+quandl
 # Data Visualization
 matplotlib==3.4.3
 seaborn==0.11.2
