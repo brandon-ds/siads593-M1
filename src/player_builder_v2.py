@@ -20,7 +20,7 @@ def create_file(output_file: str):
         header = next(reader)
         with open(output_file, "w") as f:
             writer = csv.writer(f)
-            writer.writerow(header)
+            writer.writerow(header + ["year"])
 
 
 def read_players(years: list, output_file: str):
@@ -46,11 +46,11 @@ def read_players(years: list, output_file: str):
             for row in reader:
                 with open(output_file, "a") as f:
                     writer = csv.writer(f)
-                    writer.writerow(row)
+                    writer.writerow(row + [2000 + year])
 
 
 def main():
-    years = [15, 16, 17, 18, 19, 20, 21, 22]
+    years = [17, 18, 19, 20, 21]
     output_file = "siads593-M1/data/playersV2.csv"
     create_file(output_file)
     read_players(years, output_file)
