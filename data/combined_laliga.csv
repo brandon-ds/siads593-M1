@@ -12623,3 +12623,355 @@ Villarreal CF,André Zambo Anguissa,24.0,Cameroon,Defensive Midfield,DM,20000000
 Villarreal CF,Étienne Capoue,32.0,France,Defensive Midfield,DM,4000000.0,Watford,England,2000000.0,in,winter,Laliga,2020,False,,2020
 Villarreal CF,Santiago Cáseres,23.0,Argentina,Defensive Midfield,DM,4800000.0,Vélez Sarsfield,Argentina,0.0,out,winter,Laliga,2020,True,free loan,2020
 Villarreal CF,Soufiane Chakla,27.0,Morocco,Centre-Back,CB,800000.0,Getafe,Spain,0.0,out,winter,Laliga,2020,True,free loan,2020
+FC Barcelona,Rodrigo de Paul,27.0,Argentina,Central Midfield,CM,40000000.0,Udinese Calcio,Italy,35000000.0,in,summer,Laliga,2021,False,,2021
+FC Barcelona,Matheus Cunha,22.0,Brazil,Centre-Forward,CF,30000000.0,Hertha BSC,Germany,26000000.0,in,summer,Laliga,2021,False,,2021
+FC Barcelona,Antoine Griezmann,30.0,France,Second Striker,SS,50000000.0,Barcelona,Spain,10000000.0,in,summer,Laliga,2021,True,loan with fee,2021
+FC Barcelona,Marcos Paulo,20.0,Portugal,Left Winger,LW,9000000.0,Fluminense,Brazil,0.0,in,summer,Laliga,2021,False,,2021
+FC Barcelona,Benjamin Lecomte,30.0,France,Goalkeeper,GK,9000000.0,Monaco,France,0.0,in,summer,Laliga,2021,True,free loan,2021
+FC Barcelona,Saúl Ñíguez,26.0,Spain,Central Midfield,CM,40000000.0,Chelsea,England,5000000.0,out,summer,Laliga,2021,True,loan with fee,2021
+FC Barcelona,Nicolás Ibáñez,26.0,Argentina,Centre-Forward,CF,4500000.0,CF Pachuca,Mexico,3000000.0,out,summer,Laliga,2021,False,,2021
+FC Barcelona,Francisco Montero,22.0,Spain,Centre-Back,CB,4000000.0,Besiktas,Turkey,750000.0,out,summer,Laliga,2021,False,,2021
+FC Barcelona,Vitolo,31.0,Spain,Left Winger,LW,4000000.0,Getafe,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+FC Barcelona,Manu Sánchez,20.0,Spain,Left-Back,LB,8000000.0,CA Osasuna,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+FC Barcelona,Ivo Grbic,25.0,Croatia,Goalkeeper,GK,3500000.0,LOSC Lille,France,0.0,out,summer,Laliga,2021,True,free loan,2021
+FC Barcelona,Marcos Paulo,20.0,Portugal,Left Winger,LW,9000000.0,Famalicão,Portugal,0.0,out,summer,Laliga,2021,True,free loan,2021
+FC Barcelona,Nehuén Pérez,21.0,Argentina,Centre-Back,CB,4000000.0,Udinese Calcio,Italy,0.0,out,summer,Laliga,2021,True,free loan,2021
+FC Barcelona,Santiago Arias,29.0,Colombia,Right-Back,RB,5000000.0,Granada CF,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+FC Barcelona,Axel Werner,25.0,Argentina,Goalkeeper,GK,1000000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+FC Barcelona,Víctor Mollejo,20.0,Spain,Right Winger,RW,3000000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+FC Barcelona,Moussa Dembélé,24.0,France,Centre-Forward,CF,20000000.0,Olympique Lyon,France,0.0,out,summer,Laliga,2021,True,end of loan,2021
+FC Barcelona,Lucas Torreira,25.0,Uruguay,Defensive Midfield,DM,18000000.0,Arsenal,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Real Madrid,Emerson Royal,22.0,Brazil,Right-Back,RB,25000000.0,Real Betis,Spain,14000000.0,in,summer,Laliga,2021,False,,2021
+Real Madrid,Yusuf Demir,18.0,Austria,Right Winger,RW,12000000.0,Rapid Vienna,Austria,500000.0,in,summer,Laliga,2021,True,loan with fee,2021
+Real Madrid,Sergio Agüero,33.0,Argentina,Centre-Forward,CF,15000000.0,Man City,England,0.0,in,summer,Laliga,2021,False,,2021
+Real Madrid,Eric García,20.0,Spain,Centre-Back,CB,20000000.0,Man City,England,0.0,in,summer,Laliga,2021,False,,2021
+Real Madrid,Memphis Depay,27.0,Netherlands,Centre-Forward,CF,45000000.0,Olympique Lyon,France,0.0,in,summer,Laliga,2021,False,,2021
+Real Madrid,Luuk de Jong,31.0,Netherlands,Centre-Forward,CF,7500000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Real Madrid,Emerson Royal,22.0,Brazil,Right-Back,RB,25000000.0,Spurs,England,25000000.0,out,summer,Laliga,2021,False,,2021
+Real Madrid,Junior Firpo,24.0,Dominican Republic,Left-Back,LB,12000000.0,Leeds,England,15000000.0,out,summer,Laliga,2021,False,,2021
+Real Madrid,Antoine Griezmann,30.0,France,Second Striker,SS,50000000.0,Atlético Madrid,Spain,10000000.0,out,summer,Laliga,2021,True,loan with fee,2021
+Real Madrid,Jean-Clair Todibo,21.0,France,Centre-Back,CB,14000000.0,OGC Nice,France,8500000.0,out,summer,Laliga,2021,False,,2021
+Real Madrid,Carles Aleñá,23.0,Spain,Central Midfield,CM,15000000.0,Getafe,Spain,5000000.0,out,summer,Laliga,2021,False,,2021
+Real Madrid,Lionel Messi,34.0,Argentina,Right Winger,RW,80000000.0,Paris SG,France,0.0,out,summer,Laliga,2021,False,,2021
+Real Madrid,Monchu,21.0,Spain,Central Midfield,CM,4000000.0,Granada CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Madrid,Matheus Fernandes,23.0,Brazil,Central Midfield,CM,1500000.0,Palmeiras,Brazil,0.0,out,summer,Laliga,2021,False,,2021
+Real Madrid,Juan Miranda,21.0,Spain,Left-Back,LB,7000000.0,Real Betis,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Madrid,Miralem Pjanic,31.0,Bosnia-Herzegovina,Central Midfield,CM,18000000.0,Besiktas,Turkey,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Madrid,Francisco Trincão,21.0,Portugal,Right Winger,RW,22000000.0,Wolves,England,0.0,out,summer,Laliga,2021,True,free loan,2021
+Sevilla FC,Eduardo Camavinga,18.0,France,Central Midfield,CM,55000000.0,Stade Rennais,France,31000000.0,in,summer,Laliga,2021,False,,2021
+Sevilla FC,David Alaba,29.0,Austria,Centre-Back,CB,55000000.0,FC Bayern,Germany,0.0,in,summer,Laliga,2021,False,,2021
+Sevilla FC,Raphaël Varane,28.0,France,Centre-Back,CB,70000000.0,Man Utd,England,40000000.0,out,summer,Laliga,2021,False,,2021
+Sevilla FC,Martin Ødegaard,22.0,Norway,Attacking Midfield,AM,40000000.0,Arsenal,England,35000000.0,out,summer,Laliga,2021,False,,2021
+Sevilla FC,Brahim Díaz,21.0,Spain,Attacking Midfield,AM,23000000.0,AC Milan,Italy,3000000.0,out,summer,Laliga,2021,True,loan with fee,2021
+Sevilla FC,Sergio Ramos,35.0,Spain,Centre-Back,CB,10000000.0,Paris SG,France,0.0,out,summer,Laliga,2021,False,,2021
+Sevilla FC,Takefusa Kubo,20.0,Japan,Right Winger,RW,10000000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Sevilla FC,Álvaro Odriozola,25.0,Spain,Right-Back,RB,10000000.0,Fiorentina,Italy,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Sociedad,Rafa Mir,24.0,Spain,Centre-Forward,CF,16000000.0,Wolves,England,16000000.0,in,summer,Laliga,2021,False,,2021
+Real Sociedad,Gonzalo Montiel,24.0,Argentina,Right-Back,RB,17000000.0,River Plate,Argentina,11000000.0,in,summer,Laliga,2021,False,,2021
+Real Sociedad,Thomas Delaney,29.0,Denmark,Defensive Midfield,DM,9000000.0,Bor. Dortmund,Germany,6000000.0,in,summer,Laliga,2021,False,,2021
+Real Sociedad,Ludwig Augustinsson,27.0,Sweden,Left-Back,LB,7500000.0,Werder Bremen,Germany,5500000.0,in,summer,Laliga,2021,False,,2021
+Real Sociedad,Erik Lamela,29.0,Argentina,Right Winger,RW,20000000.0,Spurs,England,0.0,in,summer,Laliga,2021,False,,2021
+Real Sociedad,Marko Dmitrovic,29.0,Serbia,Goalkeeper,GK,8000000.0,SD Eibar,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Real Sociedad,Bryan Gil,20.0,Spain,Left Winger,LW,30000000.0,Spurs,England,25000000.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,Guilherme Arana,24.0,Brazil,Left-Back,LB,8000000.0,Atlético-MG,Brazil,2500000.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,Sergi Gómez,29.0,Spain,Centre-Back,CB,2000000.0,Espanyol,Spain,1000000.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,Franco Vázquez,32.0,Argentina,Attacking Midfield,AM,4000000.0,Parma,Italy,0.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,Sergio Escudero,31.0,Spain,Left-Back,LB,2500000.0,Granada CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,Aleix Vidal,31.0,Spain,Right-Back,RB,2000000.0,Espanyol,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,José Alonso Lara,21.0,Spain,Left Winger,LW,500000.0,Betis B,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,Juan Soriano,23.0,Spain,Goalkeeper,GK,1000000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,Tomas Vaclik,32.0,Czech Republic,Goalkeeper,GK,4000000.0,Olympiacos,Greece,0.0,out,summer,Laliga,2021,False,,2021
+Real Sociedad,Luuk de Jong,31.0,Netherlands,Centre-Forward,CF,7500000.0,Barcelona,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Sociedad,Juan Berrocal,22.0,Spain,Centre-Back,CB,1000000.0,Sporting Gijón,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Sociedad,Rony Lopes,25.0,Portugal,Right Winger,RW,7000000.0,Olympiacos,Greece,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Sociedad,Alejandro Pozo,22.0,Spain,Attacking Midfield,AM,4000000.0,UD Almería,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Sociedad,Joris Gnagnon,24.0,France,Centre-Back,CB,1200000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Villarreal CF,Alexander Sörloth,25.0,Norway,Centre-Forward,CF,16000000.0,RB Leipzig,Germany,2000000.0,in,summer,Laliga,2021,True,loan with fee,2021
+Villarreal CF,Diego Rico,28.0,Spain,Left-Back,LB,2000000.0,Bournemouth,England,500000.0,in,summer,Laliga,2021,False,,2021
+Villarreal CF,Mathew Ryan,29.0,Australia,Goalkeeper,GK,6000000.0,Brighton,England,,in,summer,Laliga,2021,False,,2021
+Villarreal CF,Martín Merquelanz,26.0,Spain,Left Winger,LW,2000000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Villarreal CF,Kévin Rodrigues,27.0,Portugal,Left-Back,LB,2500000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Villarreal CF,Willian José,29.0,Brazil,Centre-Forward,CF,18000000.0,Real Betis,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Villarreal CF,Jon Bautista,26.0,Spain,Centre-Forward,CF,1200000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Villarreal CF,Modibo Sagnan,22.0,France,Centre-Back,CB,3000000.0,Tondela,Portugal,0.0,out,summer,Laliga,2021,True,free loan,2021
+Villarreal CF,Miguel Ángel Moyá,37.0,Spain,Goalkeeper,GK,,,,,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Arnaut Danjuma,24.0,Netherlands,Left Winger,LW,25000000.0,Bournemouth,England,23500000.0,in,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Juan Foyth,23.0,Argentina,Centre-Back,CB,15000000.0,Spurs,England,15000000.0,in,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Boulaye Dia,24.0,Senegal,Centre-Forward,CF,14000000.0,Stade Reims,France,12000000.0,in,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Manu Morlanes,22.0,Spain,Central Midfield,CM,5000000.0,UD Almería,Spain,4000000.0,in,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Aïssa Mandi,29.0,Algeria,Centre-Back,CB,8000000.0,Real Betis,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Serge Aurier,28.0,Cote d'Ivoire,Right-Back,RB,15000000.0,Without Club,,,in,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Manu Morlanes,22.0,Spain,Central Midfield,CM,5000000.0,UD Almería,Spain,3000000.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Ramiro Funes Mori,30.0,Argentina,Centre-Back,CB,2000000.0,Al-Nassr FC,Saudi Arabia,2500000.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Mario González,25.0,Spain,Centre-Forward,CF,3000000.0,SC Braga,Portugal,1500000.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Enric Franquesa,24.0,Spain,Left-Back,LB,800000.0,Levante,Spain,750000.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Miguelón,25.0,Spain,Right-Back,RB,1000000.0,Espanyol,Spain,500000.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Soufiane Chakla,27.0,Morocco,Centre-Back,CB,800000.0,OH Leuven,Belgium,0.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Andrei Ratiu,23.0,Romania,Right-Back,RB,600000.0,SD Huesca,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Carlos Bacca,34.0,Colombia,Centre-Forward,CF,1500000.0,Granada CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Jaume Costa,33.0,Spain,Left-Back,LB,2000000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Real Betis Balompié,Iván Martín,22.0,Spain,Attacking Midfield,AM,800000.0,Alavés,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Betis Balompié,Xavi Quintillà,24.0,Spain,Left-Back,LB,2000000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Betis Balompié,Manu Morlanes,22.0,Spain,Central Midfield,CM,5000000.0,Espanyol,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Betis Balompié,Fer Niño,20.0,Spain,Centre-Forward,CF,5000000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Betis Balompié,Javi Ontiveros,23.0,Spain,Left Winger,LW,4000000.0,CA Osasuna,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Betis Balompié,Jorge Cuenca,21.0,Spain,Centre-Back,CB,6000000.0,Getafe,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Real Betis Balompié,Juan Foyth,23.0,Argentina,Centre-Back,CB,15000000.0,Spurs,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Athletic Bilbao,Germán Pezzella,30.0,Argentina,Centre-Back,CB,5000000.0,Fiorentina,Italy,3500000.0,in,summer,Laliga,2021,False,,2021
+Athletic Bilbao,Juan Miranda,21.0,Spain,Left-Back,LB,7000000.0,Barcelona,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Athletic Bilbao,Youssouf Sabaly,28.0,Senegal,Right-Back,RB,6500000.0,G. Bordeaux,France,0.0,in,summer,Laliga,2021,False,,2021
+Athletic Bilbao,Rui Silva,27.0,Portugal,Goalkeeper,GK,12000000.0,Granada CF,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Athletic Bilbao,Willian José,29.0,Brazil,Centre-Forward,CF,18000000.0,Real Sociedad,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Athletic Bilbao,Héctor Bellerín,26.0,Spain,Right-Back,RB,20000000.0,Arsenal,England,0.0,in,summer,Laliga,2021,True,free loan,2021
+Athletic Bilbao,Emerson Royal,22.0,Brazil,Right-Back,RB,25000000.0,Barcelona,Spain,14000000.0,out,summer,Laliga,2021,False,,2021
+Athletic Bilbao,Aïssa Mandi,29.0,Algeria,Centre-Back,CB,8000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Athletic Bilbao,Dani Martín,23.0,Spain,Goalkeeper,GK,2000000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Athletic Bilbao,Loren Morón,27.0,Spain,Centre-Forward,CF,9000000.0,Espanyol,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Athletic Bilbao,Sidnei,32.0,Brazil,Centre-Back,CB,2000000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Athletic Bilbao,Juan Miranda,21.0,Spain,Left-Back,LB,7000000.0,Barcelona,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Granada CF,Álex Petxa,24.0,Spain,Right-Back,RB,800000.0,Real Sociedad B,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Granada CF,Iago Herrerín,33.0,Spain,Goalkeeper,GK,1000000.0,Al-Raed,Saudi Arabia,0.0,out,summer,Laliga,2021,False,,2021
+Granada CF,Kenan Kodro,28.0,Bosnia-Herzegovina,Centre-Forward,CF,1000000.0,Fehérvár,Hungary,0.0,out,summer,Laliga,2021,False,,2021
+Granada CF,Iñigo Vicente,23.0,Spain,Left Winger,LW,1000000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Granada CF,Imanol García de Albéniz,21.0,Spain,Left-Back,LB,300000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Granada CF,Unai López,25.0,Spain,Central Midfield,CM,12000000.0,Rayo Vallecano,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Granada CF,Iñigo Córdoba,24.0,Spain,Left Winger,LW,1500000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Laliga,2021,True,free loan,2021
+Granada CF,Ibai Gómez,31.0,Spain,Right Winger,RW,800000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Celta de Vigo,Luís Maximiano,22.0,Portugal,Goalkeeper,GK,6000000.0,Sporting CP,Portugal,4500000.0,in,summer,Laliga,2021,False,,2021
+Celta de Vigo,Sergio Escudero,31.0,Spain,Left-Back,LB,2500000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Celta de Vigo,Luis Abram,25.0,Peru,Centre-Back,CB,7000000.0,Vélez Sarsfield,Argentina,0.0,in,summer,Laliga,2021,False,,2021
+Celta de Vigo,Monchu,21.0,Spain,Central Midfield,CM,4000000.0,Barcelona,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Celta de Vigo,Carlos Bacca,34.0,Colombia,Centre-Forward,CF,1500000.0,Villarreal,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Celta de Vigo,Rubén Rochina,30.0,Spain,Right Winger,RW,2800000.0,Levante,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Celta de Vigo,Alpha Dionkou,19.0,Senegal,Right-Back,RB,300000.0,Man City U23,England,0.0,in,summer,Laliga,2021,False,,2021
+Celta de Vigo,Ricard Sánchez,21.0,Spain,Right-Back,RB,800000.0,Atl. Madrid B,Spain,,in,summer,Laliga,2021,False,,2021
+Celta de Vigo,Santiago Arias,29.0,Colombia,Right-Back,RB,5000000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Celta de Vigo,Dimitri Foulquier,28.0,Guadeloupe,Right-Back,RB,2500000.0,Valencia,Spain,2500000.0,out,summer,Laliga,2021,False,,2021
+Celta de Vigo,Roberto Soldado,36.0,Spain,Centre-Forward,CF,1000000.0,Levante,Spain,500000.0,out,summer,Laliga,2021,False,,2021
+Celta de Vigo,Fede Vico,27.0,Spain,Attacking Midfield,AM,2000000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Celta de Vigo,Rui Silva,27.0,Portugal,Goalkeeper,GK,12000000.0,Real Betis,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Celta de Vigo,Ricard Sánchez,21.0,Spain,Right-Back,RB,800000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Celta de Vigo,Alpha Dionkou,19.0,Senegal,Right-Back,RB,300000.0,San Fernando CD,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Celta de Vigo,Antoñín,21.0,Spain,Centre-Forward,CF,1000000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Celta de Vigo,Adrián Marín,24.0,Spain,Left-Back,LB,1200000.0,Famalicão,Portugal,0.0,out,summer,Laliga,2021,True,free loan,2021
+Celta de Vigo,Ramon Azeez,28.0,Nigeria,Central Midfield,CM,700000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Celta de Vigo,Domingos Quina,21.0,Portugal,Central Midfield,CM,3000000.0,Watford,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Celta de Vigo,Nehuén Pérez,21.0,Argentina,Centre-Back,CB,4000000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Celta de Vigo,Kenedy,25.0,Brazil,Left Winger,LW,10000000.0,Chelsea,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Celta de Vigo,Yangel Herrera,23.0,Venezuela,Central Midfield,CM,18000000.0,Man City,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Celta de Vigo,Jesús Vallejo,24.0,Spain,Centre-Back,CB,5000000.0,Real Madrid,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Cádiz CF,Javi Galán,26.0,Spain,Left-Back,LB,6000000.0,SD Huesca,Spain,4000000.0,in,summer,Laliga,2021,False,,2021
+Cádiz CF,Franco Cervi,27.0,Argentina,Left Winger,LW,5000000.0,Benfica,Portugal,4000000.0,in,summer,Laliga,2021,False,,2021
+Cádiz CF,Thiago Galhardo,32.0,Brazil,Centre-Forward,CF,2500000.0,Internacional,Brazil,600000.0,in,summer,Laliga,2021,True,loan with fee,2021
+Cádiz CF,Matías Dituro,34.0,Argentina,Goalkeeper,GK,1000000.0,CDUC,Chile,0.0,in,summer,Laliga,2021,True,free loan,2021
+Cádiz CF,Jeison Murillo,29.0,Colombia,Centre-Back,CB,7000000.0,Sampdoria,Italy,0.0,in,summer,Laliga,2021,True,free loan,2021
+Cádiz CF,Álvaro Vadillo,26.0,Spain,Left Winger,LW,1000000.0,Espanyol,Spain,1800000.0,out,summer,Laliga,2021,False,,2021
+Cádiz CF,Jozabed Sánchez,30.0,Spain,Central Midfield,CM,700000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Cádiz CF,Juan Hernández,26.0,Spain,Right Winger,RW,400000.0,Alcorcón,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Cádiz CF,David Costas,26.0,Spain,Centre-Back,CB,1200000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Cádiz CF,David Juncà,27.0,Spain,Left-Back,LB,500000.0,Girona,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Cádiz CF,Iván Villar,24.0,Spain,Goalkeeper,GK,2500000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Cádiz CF,Emre Mor,24.0,Turkey,Right Winger,RW,575000.0,Karagümrük,Turkey,0.0,out,summer,Laliga,2021,True,free loan,2021
+Cádiz CF,Sergio Carreira,20.0,Spain,Right-Back,RB,1000000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Cádiz CF,Gabriel Fernández,27.0,Uruguay,Centre-Forward,CF,2000000.0,FC Juárez,Mexico,0.0,out,summer,Laliga,2021,True,free loan,2021
+Cádiz CF,Facundo Ferreyra,30.0,Argentina,Centre-Forward,CF,1700000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Cádiz CF,Sergio Álvarez,34.0,Spain,Goalkeeper,GK,,,,,out,summer,Laliga,2021,False,,2021
+Cádiz CF,Aarón Martín,24.0,Spain,Left-Back,LB,4500000.0,1.FSV Mainz 05,Germany,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Cádiz CF,Jorge Sáenz,24.0,Spain,Centre-Back,CB,1000000.0,Valencia,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Cádiz CF,Jeison Murillo,29.0,Colombia,Centre-Back,CB,7000000.0,Sampdoria,Italy,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Espanyol Barcelona,Santiago Arzamendia,23.0,Paraguay,Left-Back,LB,3000000.0,Cerro Porteño,Paraguay,2100000.0,in,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Tomás Alarcón,22.0,Chile,Defensive Midfield,DM,3000000.0,O'Higgins,Chile,2000000.0,in,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Jeremías Ledesma,28.0,Argentina,Goalkeeper,GK,6000000.0,Rosario Central,Argentina,1800000.0,in,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Álvaro Jiménez,26.0,Spain,Right Winger,RW,600000.0,Albacete,Spain,700000.0,in,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Varazdat Haroyan,28.0,Armenia,Centre-Back,CB,1200000.0,FC Astana,Kazakhstan,0.0,in,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Martín Calderón,22.0,Spain,Central Midfield,CM,300000.0,RM Castilla,Spain,0.0,in,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Rubén Sobrino,29.0,Spain,Centre-Forward,CF,1500000.0,Valencia,Spain,,in,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Milutin Osmajic,21.0,Montenegro,Centre-Forward,CF,400000.0,Sutjeska Niksic,Montenegro,,in,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Víctor Chust,21.0,Spain,Centre-Back,CB,1000000.0,RM Castilla,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+RCD Espanyol Barcelona,Florin Andone,28.0,Romania,Centre-Forward,CF,1500000.0,Brighton,England,0.0,in,summer,Laliga,2021,True,free loan,2021
+RCD Espanyol Barcelona,Pedro Alcalá,32.0,Spain,Centre-Back,CB,600000.0,FC Cartagena,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Gaspar Panadero,23.0,Spain,Left Winger,LW,300000.0,Qarabag FK,Azerbaijan,0.0,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Dani Sotres,28.0,Spain,Goalkeeper,GK,250000.0,CyD Leonesa,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,José Matos,26.0,Spain,Left-Back,LB,500000.0,Burgos CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Jean-Pierre Rhyner,25.0,Peru,Centre-Back,CB,300000.0,Volos NPS,Greece,0.0,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Caye Quintana,27.0,Spain,Centre-Forward,CF,300000.0,Slask Wroclaw,Poland,0.0,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Sergio González,24.0,Spain,Defensive Midfield,DM,500000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Álvaro Giménez,30.0,Spain,Centre-Forward,CF,1000000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+RCD Espanyol Barcelona,Nano Mesa,26.0,Spain,Centre-Forward,CF,500000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+RCD Espanyol Barcelona,Jorge Pombo,27.0,Spain,Attacking Midfield,AM,1000000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+RCD Espanyol Barcelona,Filip Malbasic,28.0,Serbia,Right Winger,RW,900000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Augusto Fernández,35.0,Argentina,Central Midfield,CM,,,,,out,summer,Laliga,2021,False,,2021
+RCD Espanyol Barcelona,Rubén Sobrino,29.0,Spain,Centre-Forward,CF,1500000.0,Valencia,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Espanyol Barcelona,Ivan Saponjic,23.0,Serbia,Centre-Forward,CF,900000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Espanyol Barcelona,Jairo Izquierdo,27.0,Spain,Left Winger,LW,800000.0,Girona,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Espanyol Barcelona,Jeremías Ledesma,28.0,Argentina,Goalkeeper,GK,6000000.0,Rosario Central,Argentina,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Espanyol Barcelona,David Mayoral,24.0,Spain,Right Winger,RW,400000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+CA Osasuna,Landry Dimata,23.0,Belgium,Centre-Forward,CF,3000000.0,RSC Anderlecht,Belgium,2200000.0,in,summer,Laliga,2021,False,,2021
+CA Osasuna,Álvaro Vadillo,26.0,Spain,Left Winger,LW,1000000.0,Celta de Vigo,Spain,1800000.0,in,summer,Laliga,2021,False,,2021
+CA Osasuna,Sergi Gómez,29.0,Spain,Centre-Back,CB,2000000.0,Sevilla FC,Spain,1000000.0,in,summer,Laliga,2021,False,,2021
+CA Osasuna,Miguelón,25.0,Spain,Right-Back,RB,1000000.0,Villarreal,Spain,500000.0,in,summer,Laliga,2021,False,,2021
+CA Osasuna,Aleix Vidal,31.0,Spain,Right-Back,RB,2000000.0,Sevilla FC,Spain,0.0,in,summer,Laliga,2021,False,,2021
+CA Osasuna,Manu Morlanes,22.0,Spain,Central Midfield,CM,5000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+CA Osasuna,Loren Morón,27.0,Spain,Centre-Forward,CF,9000000.0,Real Betis,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+CA Osasuna,Yangel Herrera,23.0,Venezuela,Central Midfield,CM,18000000.0,Man City,England,0.0,in,summer,Laliga,2021,True,free loan,2021
+CA Osasuna,Lluís López,24.0,Spain,Centre-Back,CB,800000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2021,False,,2021
+CA Osasuna,Matías Vargas,24.0,Argentina,Left Winger,LW,2700000.0,Adana Demirspor,Turkey,0.0,out,summer,Laliga,2021,True,free loan,2021
+CA Osasuna,Juan Camilo Becerra,23.0,Colombia,Centre-Forward,CF,350000.0,Ponferradina,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+CA Osasuna,Víctor Gómez,21.0,Spain,Right-Back,RB,2500000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+CA Osasuna,Pol Lozano,21.0,Spain,Central Midfield,CM,800000.0,Girona,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+CA Osasuna,Miguelón,25.0,Spain,Right-Back,RB,1000000.0,Villarreal,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+CA Osasuna,Álvaro Vadillo,26.0,Spain,Left Winger,LW,1000000.0,Celta de Vigo,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+CA Osasuna,Landry Dimata,23.0,Belgium,Centre-Forward,CF,3000000.0,RSC Anderlecht,Belgium,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Levante UD,Ante Budimir,29.0,Croatia,Centre-Forward,CF,9000000.0,RCD Mallorca,Spain,8000000.0,in,summer,Laliga,2021,False,,2021
+Levante UD,Jonás Ramalho,28.0,Angola,Centre-Back,CB,1000000.0,Girona,Spain,700000.0,in,summer,Laliga,2021,False,,2021
+Levante UD,Kike García,31.0,Spain,Centre-Forward,CF,2800000.0,SD Eibar,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Levante UD,Jesús Areso,21.0,Spain,Right-Back,RB,800000.0,Bilbao Athletic,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Levante UD,Cote,31.0,Spain,Left-Back,LB,1500000.0,SD Eibar,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Levante UD,Javi Ontiveros,23.0,Spain,Left Winger,LW,4000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Levante UD,Manu Sánchez,20.0,Spain,Left-Back,LB,8000000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Levante UD,Facundo Roncaglia,34.0,Argentina,Centre-Back,CB,1000000.0,Aris Limassol,Cyprus,0.0,out,summer,Laliga,2021,False,,2021
+Levante UD,Enric Gallego,34.0,Spain,Centre-Forward,CF,600000.0,CD Tenerife,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Levante UD,Rubén Martínez,37.0,Spain,Goalkeeper,GK,500000.0,AEK Larnaca,Cyprus,0.0,out,summer,Laliga,2021,False,,2021
+Levante UD,Brandon Thomas,26.0,Spain,Centre-Forward,CF,600000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Levante UD,Marc Cardona,26.0,Spain,Centre-Forward,CF,600000.0,Go Ahead Eagles,Netherlands,0.0,out,summer,Laliga,2021,True,free loan,2021
+Levante UD,Kike Saverio,22.0,Ecuador,Left Winger,LW,200000.0,Ponferradina,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Levante UD,Adrián López,33.0,Spain,Centre-Forward,CF,700000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Levante UD,Jonás Ramalho,28.0,Angola,Centre-Back,CB,1000000.0,Girona,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Levante UD,Manu Sánchez,20.0,Spain,Left-Back,LB,8000000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Levante UD,Ante Budimir,29.0,Croatia,Centre-Forward,CF,9000000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Levante UD,Jony,29.0,Spain,Left Winger,LW,1500000.0,Lazio,Italy,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Levante UD,Jonathan Calleri,27.0,Argentina,Centre-Forward,CF,5000000.0,Maldonado,Uruguay,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Valencia CF,Enric Franquesa,24.0,Spain,Left-Back,LB,800000.0,Villarreal,Spain,750000.0,in,summer,Laliga,2021,False,,2021
+Valencia CF,Roberto Soldado,36.0,Spain,Centre-Forward,CF,1000000.0,Granada CF,Spain,500000.0,in,summer,Laliga,2021,False,,2021
+Valencia CF,Roger Brugué,24.0,Spain,Right Winger,RW,400000.0,Gimnàstic,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Valencia CF,Shkodran Mustafi,29.0,Germany,Centre-Back,CB,2500000.0,Without Club,,,in,summer,Laliga,2021,False,,2021
+Valencia CF,Rubén Rochina,30.0,Spain,Right Winger,RW,2800000.0,Granada CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Valencia CF,Toño García,31.0,Spain,Left-Back,LB,800000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Valencia CF,Cheick Doukouré,28.0,Cote d'Ivoire,Defensive Midfield,DM,600000.0,CD Leganés,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Valencia CF,Arturo Molina,25.0,Spain,Attacking Midfield,AM,300000.0,CF Fuenlabrada,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Valencia CF,Sergio León,32.0,Spain,Centre-Forward,CF,1200000.0,Real Valladolid,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Valencia CF,Roger Brugué,24.0,Spain,Right Winger,RW,400000.0,CD Mirandés,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Valencia CF,Koke Vegas,25.0,Spain,Goalkeeper,GK,400000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Valencia CF,Hernâni,30.0,Portugal,Right Winger,RW,1000000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Getafe CF,Marcos André,24.0,Brazil,Centre-Forward,CF,8500000.0,Real Valladolid,Spain,8500000.0,in,summer,Laliga,2021,False,,2021
+Getafe CF,Dimitri Foulquier,28.0,Guadeloupe,Right-Back,RB,2500000.0,Granada CF,Spain,2500000.0,in,summer,Laliga,2021,False,,2021
+Getafe CF,Giorgi Mamardashvili,20.0,Georgia,Goalkeeper,GK,3000000.0,Dinamo Tbilisi,Georgia,200000.0,in,summer,Laliga,2021,True,loan with fee,2021
+Getafe CF,Omar Alderete,24.0,Paraguay,Centre-Back,CB,6000000.0,Hertha BSC,Germany,0.0,in,summer,Laliga,2021,True,free loan,2021
+Getafe CF,Hugo Duro,21.0,Spain,Centre-Forward,CF,5000000.0,Getafe,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Getafe CF,Hélder Costa,27.0,Angola,Right Winger,RW,8000000.0,Leeds,England,0.0,in,summer,Laliga,2021,True,free loan,2021
+Getafe CF,Javi Jiménez,24.0,Spain,Centre-Back,CB,200000.0,Albacete,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Getafe CF,Kévin Gameiro,34.0,France,Centre-Forward,CF,3000000.0,R. Strasbourg,France,0.0,out,summer,Laliga,2021,False,,2021
+Getafe CF,Kang-in Lee,20.0,"Korea, South",Attacking Midfield,AM,10000000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Getafe CF,Rubén Sobrino,29.0,Spain,Centre-Forward,CF,1500000.0,Cádiz CF,Spain,,out,summer,Laliga,2021,False,,2021
+Getafe CF,Jorge Sáenz,24.0,Spain,Centre-Back,CB,1000000.0,Marítimo,Portugal,0.0,out,summer,Laliga,2021,True,free loan,2021
+Getafe CF,Eliaquim Mangala,30.0,France,Centre-Back,CB,2000000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Getafe CF,Patrick Cutrone,23.0,Italy,Centre-Forward,CF,7000000.0,Wolves,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Getafe CF,Ferro,24.0,Portugal,Centre-Back,CB,5000000.0,Benfica,Portugal,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Getafe CF,Christian Oliva,25.0,Uruguay,Defensive Midfield,DM,3000000.0,Cagliari Calcio,Italy,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Deportivo Alavés,Jakub Jankto,25.0,Czech Republic,Left Midfield,LM,8000000.0,Sampdoria,Italy,6000000.0,in,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Carles Aleñá,23.0,Spain,Central Midfield,CM,15000000.0,Barcelona,Spain,5000000.0,in,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Jonathan Silva,27.0,Argentina,Left-Back,LB,2500000.0,CD Leganés,Spain,2500000.0,in,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Stefan Mitrovic,31.0,Serbia,Centre-Back,CB,1500000.0,R. Strasbourg,France,1000000.0,in,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Sandro Ramírez,26.0,Spain,Centre-Forward,CF,3500000.0,SD Huesca,Spain,1000000.0,in,summer,Laliga,2021,True,loan with fee,2021
+Deportivo Alavés,Diego Conde,22.0,Spain,Goalkeeper,GK,300000.0,Atl. Madrid B,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Darío Poveda,24.0,Spain,Centre-Forward,CF,400000.0,Atl. Madrid B,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Jorge Cuenca,21.0,Spain,Centre-Back,CB,6000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Deportivo Alavés,Florentino,22.0,Portugal,Defensive Midfield,DM,10000000.0,Benfica,Portugal,0.0,in,summer,Laliga,2021,True,free loan,2021
+Deportivo Alavés,José Macías,21.0,Mexico,Centre-Forward,CF,10000000.0,Chivas,Mexico,0.0,in,summer,Laliga,2021,True,free loan,2021
+Deportivo Alavés,Vitolo,31.0,Spain,Left Winger,LW,4000000.0,Atlético Madrid,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Deportivo Alavés,Marc Cucurella,23.0,Spain,Left Midfield,LM,20000000.0,Brighton,England,18000000.0,out,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Amath Ndiaye,24.0,Senegal,Left Winger,LW,4000000.0,RCD Mallorca,Spain,3000000.0,out,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Ángel Rodríguez,34.0,Spain,Centre-Forward,CF,2000000.0,RCD Mallorca,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Xabi Etxeita,33.0,Spain,Centre-Back,CB,800000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Francisco Portillo,31.0,Spain,Right Winger,RW,1500000.0,UD Almería,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Deportivo Alavés,Jack Harper,25.0,Scotland,Centre-Forward,CF,300000.0,Racing,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Deportivo Alavés,Ignasi Miquel,28.0,Spain,Centre-Back,CB,1000000.0,SD Huesca,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Deportivo Alavés,Hugo Duro,21.0,Spain,Centre-Forward,CF,5000000.0,Valencia,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Deportivo Alavés,Miguel Rubio,23.0,Spain,Centre-Back,CB,150000.0,Burgos CF,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Deportivo Alavés,Cucho Hernández,22.0,Colombia,Centre-Forward,CF,9000000.0,Watford,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Deportivo Alavés,Soufiane Chakla,27.0,Morocco,Centre-Back,CB,800000.0,Villarreal,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Deportivo Alavés,Takefusa Kubo,20.0,Japan,Right Winger,RW,10000000.0,Real Madrid,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Deportivo Alavés,Carles Aleñá,23.0,Spain,Central Midfield,CM,15000000.0,Barcelona,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Deportivo Alavés,Darío Poveda,24.0,Spain,Centre-Forward,CF,400000.0,Atl. Madrid B,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Elche CF,Mamadou Sylla,27.0,Senegal,Centre-Forward,CF,1500000.0,Girona,Spain,1150000.0,in,summer,Laliga,2021,False,,2021
+Elche CF,Miguel de la Fuente,21.0,Spain,Centre-Forward,CF,500000.0,Valladolid B,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Elche CF,Taichi Hara,22.0,Japan,Centre-Forward,CF,1000000.0,NK Istra,Croatia,0.0,in,summer,Laliga,2021,False,,2021
+Elche CF,Toni Moya,23.0,Spain,Central Midfield,CM,400000.0,Atl. Madrid B,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Elche CF,Florian Lejeune,30.0,France,Centre-Back,CB,3000000.0,Newcastle,England,,in,summer,Laliga,2021,False,,2021
+Elche CF,Matt Miazga,26.0,United States,Centre-Back,CB,3000000.0,Chelsea,England,0.0,in,summer,Laliga,2021,True,free loan,2021
+Elche CF,Manu García,23.0,Spain,Attacking Midfield,AM,4000000.0,Sporting Gijón,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Elche CF,Iván Martín,22.0,Spain,Attacking Midfield,AM,800000.0,Villarreal,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Elche CF,Mamadou Loum,24.0,Senegal,Defensive Midfield,DM,2500000.0,FC Porto,Portugal,0.0,in,summer,Laliga,2021,True,free loan,2021
+Elche CF,Facundo Pellistri,19.0,Uruguay,Right Winger,RW,6000000.0,Man Utd,England,0.0,in,summer,Laliga,2021,True,free loan,2021
+Elche CF,Ramón Miérez,24.0,Argentina,Centre-Forward,CF,5000000.0,NK Osijek,Croatia,2500000.0,out,summer,Laliga,2021,False,,2021
+Elche CF,Olivier Verdon,25.0,Benin,Centre-Back,CB,1300000.0,Ludogorets,Bulgaria,1000000.0,out,summer,Laliga,2021,False,,2021
+Elche CF,Lucas Pérez,32.0,Spain,Centre-Forward,CF,2500000.0,Elche CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Elche CF,Manu García,35.0,Spain,Defensive Midfield,DM,800000.0,Aris Limassol,Cyprus,0.0,out,summer,Laliga,2021,False,,2021
+Elche CF,Rafa Páez,26.0,Spain,Centre-Back,CB,50000.0,Mar Menor FC,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Elche CF,Javi Muñoz,26.0,Spain,Central Midfield,CM,700000.0,SD Eibar,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Elche CF,Rafa Navarro,27.0,Spain,Right-Back,RB,300000.0,NK Istra,Croatia,0.0,out,summer,Laliga,2021,False,,2021
+Elche CF,Taichi Hara,22.0,Japan,Centre-Forward,CF,1000000.0,Sint-Truiden,Belgium,0.0,out,summer,Laliga,2021,True,free loan,2021
+Elche CF,Carlos Isaac,23.0,Spain,Right-Back,RB,200000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Elche CF,José Luis Rodríguez,23.0,Panama,Left Winger,LW,700000.0,Sporting Gijón,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Elche CF,Borja Sainz,20.0,Spain,Left Winger,LW,2000000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Elche CF,Abdallahi Mahmoud,21.0,Mauritania,Central Midfield,CM,300000.0,NK Istra,Croatia,0.0,out,summer,Laliga,2021,True,free loan,2021
+Elche CF,Rodrigo Ely,27.0,Brazil,Centre-Back,CB,2200000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Elche CF,Fabrice Ondoa,25.0,Cameroon,Goalkeeper,GK,250000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Elche CF,Burgui,27.0,Spain,Left Winger,LW,700000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Elche CF,Jota Peleteiro,30.0,Spain,Right Winger,RW,1500000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Elche CF,Iñigo Córdoba,24.0,Spain,Left Winger,LW,1500000.0,Athletic,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Elche CF,Facundo Pellistri,19.0,Uruguay,Right Winger,RW,6000000.0,Man Utd,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Elche CF,Florian Lejeune,30.0,France,Centre-Back,CB,3000000.0,Newcastle,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Elche CF,Rodrigo Battaglia,29.0,Argentina,Central Midfield,CM,2500000.0,Sporting CP,Portugal,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Mallorca,Iván Marcone,31.0,Argentina,Defensive Midfield,DM,3000000.0,Boca Juniors,Argentina,4000000.0,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Lucas Boyé,25.0,Argentina,Centre-Forward,CF,3500000.0,Torino,Italy,2000000.0,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Johan Mojica,28.0,Colombia,Left-Back,LB,3000000.0,Girona,Spain,1200000.0,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Gerard Gumbau,26.0,Spain,Defensive Midfield,DM,1000000.0,Girona,Spain,0.0,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Lucas Pérez,32.0,Spain,Centre-Forward,CF,2500000.0,Alavés,Spain,0.0,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Enzo Roco,28.0,Chile,Centre-Back,CB,1500000.0,Karagümrük,Turkey,0.0,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Omar Mascarell,28.0,Spain,Defensive Midfield,DM,3500000.0,FC Schalke 04,Germany,0.0,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Pedro Bigas,31.0,Spain,Centre-Back,CB,1200000.0,SD Eibar,Spain,0.0,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Darío Benedetto,31.0,Argentina,Centre-Forward,CF,5000000.0,Marseille,France,0.0,in,summer,Laliga,2021,True,free loan,2021
+RCD Mallorca,Kiko Casilla,34.0,Spain,Goalkeeper,GK,800000.0,Leeds,England,0.0,in,summer,Laliga,2021,True,free loan,2021
+RCD Mallorca,Javier Pastore,32.0,Argentina,Attacking Midfield,AM,1000000.0,Without Club,,,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Axel Werner,25.0,Argentina,Goalkeeper,GK,1000000.0,Without Club,,,in,summer,Laliga,2021,False,,2021
+RCD Mallorca,Luismi,29.0,Spain,Defensive Midfield,DM,500000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Mallorca,Dani Calvo,27.0,Spain,Centre-Back,CB,1500000.0,Real Oviedo,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Mallorca,Ramón Folch,31.0,Spain,Central Midfield,CM,200000.0,CE Sabadell,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Mallorca,Miguel Cifuentes,30.0,Spain,Right-Back,RB,600000.0,UD Ibiza,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Mallorca,Omenuke Mfulu,27.0,DR Congo,Defensive Midfield,DM,800000.0,UD Las Palmas,Spain,0.0,out,summer,Laliga,2021,False,,2021
+RCD Mallorca,Manu Justo,25.0,Spain,Second Striker,SS,250000.0,Racing,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+RCD Mallorca,Víctor Rodríguez,31.0,Spain,Left Winger,LW,500000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+RCD Mallorca,Nino,41.0,Spain,Centre-Forward,CF,,,,,out,summer,Laliga,2021,False,,2021
+RCD Mallorca,Paulo Gazzaniga,29.0,Argentina,Goalkeeper,GK,3000000.0,Spurs,England,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Mallorca,Johan Mojica,28.0,Colombia,Left-Back,LB,3000000.0,Girona,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Mallorca,Iván Marcone,31.0,Argentina,Defensive Midfield,DM,3000000.0,Boca Juniors,Argentina,0.0,out,summer,Laliga,2021,True,end of loan,2021
+RCD Mallorca,Lucas Boyé,25.0,Argentina,Centre-Forward,CF,3500000.0,Torino,Italy,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Rayo Vallecano,Matthew Hoppe,20.0,United States,Centre-Forward,CF,4500000.0,FC Schalke 04,Germany,3500000.0,in,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Amath Ndiaye,24.0,Senegal,Left Winger,LW,4000000.0,Getafe,Spain,3000000.0,in,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Dominik Greif,24.0,Slovakia,Goalkeeper,GK,2000000.0,Slo. Bratislava,Slovakia,2500000.0,in,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Pablo Maffeo,23.0,Spain,Right-Back,RB,3500000.0,VfB Stuttgart,Germany,500000.0,in,summer,Laliga,2021,True,loan with fee,2021
+Rayo Vallecano,Jaume Costa,33.0,Spain,Left-Back,LB,2000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Kang-in Lee,20.0,"Korea, South",Attacking Midfield,AM,10000000.0,Valencia,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Ángel Rodríguez,34.0,Spain,Centre-Forward,CF,2000000.0,Getafe,Spain,0.0,in,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Takefusa Kubo,20.0,Japan,Right Winger,RW,10000000.0,Real Madrid,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Rayo Vallecano,Rodrigo Battaglia,30.0,Argentina,Central Midfield,CM,2500000.0,Sporting CP,Portugal,0.0,in,summer,Laliga,2021,True,free loan,2021
+Rayo Vallecano,Fer Niño,20.0,Spain,Centre-Forward,CF,5000000.0,Villarreal,Spain,0.0,in,summer,Laliga,2021,True,free loan,2021
+Rayo Vallecano,Ante Budimir,29.0,Croatia,Centre-Forward,CF,9000000.0,CA Osasuna,Spain,8000000.0,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Stoichkov,27.0,Spain,Attacking Midfield,AM,2500000.0,SD Eibar,Spain,1000000.0,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Josep Señé,29.0,Spain,Attacking Midfield,AM,400000.0,CD Lugo,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Pablo Valcarce,28.0,Spain,Right Winger,RW,400000.0,Burgos CF,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Fran Gámez,29.0,Spain,Right-Back,RB,500000.0,Real Zaragoza,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Enzo Lombardo,24.0,France,Left Winger,LW,400000.0,SD Huesca,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Igor Zlatanovic,23.0,Serbia,Centre-Forward,CF,500000.0,Maccabi Netanya,Israel,0.0,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Miquel Parera,25.0,Spain,Goalkeeper,GK,200000.0,Racing,Spain,0.0,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Álex Alegría,28.0,Spain,Centre-Forward,CF,500000.0,Burgos CF,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Rayo Vallecano,Braian Cufré,24.0,Argentina,Left-Back,LB,2000000.0,Málaga CF,Spain,0.0,out,summer,Laliga,2021,True,free loan,2021
+Rayo Vallecano,Aleksandar Trajkovski,28.0,North Macedonia,Left Winger,LW,400000.0,Aalborg BK,Denmark,0.0,out,summer,Laliga,2021,True,free loan,2021
+Rayo Vallecano,Álex López,27.0,Spain,Centre-Forward,CF,300000.0,Without Club,,,out,summer,Laliga,2021,False,,2021
+Rayo Vallecano,Murilo de Souza,26.0,Brazil,Right Winger,RW,600000.0,SC Braga,Portugal,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Rayo Vallecano,Koke Vegas,25.0,Spain,Goalkeeper,GK,400000.0,Levante,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Rayo Vallecano,Víctor Mollejo,20.0,Spain,Right Winger,RW,3000000.0,Atlético Madrid,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Rayo Vallecano,Álvaro Giménez,30.0,Spain,Centre-Forward,CF,1000000.0,Cádiz CF,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Rayo Vallecano,Amath Ndiaye,24.0,Senegal,Left Winger,LW,4000000.0,Getafe,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
+Rayo Vallecano,Marc Cardona,25.0,Spain,Centre-Forward,CF,600000.0,CA Osasuna,Spain,0.0,out,summer,Laliga,2021,True,end of loan,2021
