@@ -3,13 +3,13 @@ import os
 
 BASE_DIR = 'C:\\Users\\David\\Downloads\\data (1)\\data\\'
 
-years = [str(year) for year in range(2017, 2022)]  
+years = [str(year) for year in range(1992, 2022)]  
 
 data_by_league = {}
 
 for year in years:
     year_path = os.path.join(BASE_DIR, year)
-    # print(f"Checking directory: {year_path}")
+    print(f"Checking directory: {year_path}")
 
     
     if os.path.isdir(year_path):
