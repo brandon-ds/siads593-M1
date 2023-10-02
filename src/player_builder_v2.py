@@ -1,5 +1,6 @@
 import csv
-import gzip 
+import gzip
+
 
 def create_file(output_file: str):
     """
@@ -57,6 +58,7 @@ def main():
     with open(output_file, "rb") as f_in:
         with gzip.open(output_file + ".gz", "wb") as f_out:
             f_out.writelines(f_in)
+
 
 if __name__ == "__main__":
     main()
